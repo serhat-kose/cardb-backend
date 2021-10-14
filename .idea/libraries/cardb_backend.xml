@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="cardb-backend">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/web/.mvn/wrapper" />
+      <root url="file://$PROJECT_DIR$/web/src/main/java" />
+      <root url="file://$PROJECT_DIR$/web/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
